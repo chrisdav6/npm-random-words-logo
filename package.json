@@ -1,0 +1,17 @@
+{
+  "name": "randomwords",
+  "version": "1.0.0",
+  "description": "NPM random words logo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Chris Davis",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "random-words": "^1.1.0"
+  },
+  "devDependencies": {}
+}
